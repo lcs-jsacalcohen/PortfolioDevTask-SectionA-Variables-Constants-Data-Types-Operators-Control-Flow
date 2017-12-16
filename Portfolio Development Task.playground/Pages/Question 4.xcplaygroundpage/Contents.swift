@@ -19,7 +19,12 @@
  
  */
 // Answer question 4 below
+var moneyIHaveEarned :String
 
+var moneyIHaveEarned = 5
+var moneyIHaveEarned = 3
+var moneyIHaveEarned = 12
+var moneyIHaveEarned = 2.25
 /*:
  ## Now share your understanding
  
