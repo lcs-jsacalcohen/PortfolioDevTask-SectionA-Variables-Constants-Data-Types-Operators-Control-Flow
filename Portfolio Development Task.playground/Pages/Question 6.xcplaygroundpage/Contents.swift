@@ -17,7 +17,9 @@
  
  */
 // Answer question 6 below
-
+let targetDistance
+var currentDistance
+// I dont know
 
 /*:
  ## Now share your understanding
