@@ -19,7 +19,8 @@
  
  */
 // Answer question 3 below
-
+var ValueOfDimes = 0.10
+car dimeCount
 /*:
  ## Now share your understanding
  

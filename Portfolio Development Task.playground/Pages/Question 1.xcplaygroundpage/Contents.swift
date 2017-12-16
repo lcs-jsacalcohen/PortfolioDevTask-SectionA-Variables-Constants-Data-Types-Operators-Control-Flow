@@ -10,10 +10,10 @@
  Use the camel case convention for variable names.
  */
 // Answer question 1 below
-var Time = 5.875
-var Speed = 80.0
-let MilesPerHour = Speed * Time
-//
+var time = 5.875
+var speed = 80.0
+let milesPerHour = Speed * Time
+//with camel case
 /*:
 - callout(Shortcut): The **Edit All in Scope** menu command is useful when renaming variables – place your cursor within the variable name and then invoke the menu command.
  
