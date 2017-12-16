@@ -18,8 +18,8 @@
  */
 // Answer question 2 below
 let UkuleleHero: String
-var 
-
+var Copies = 500
+var price = 250
 /*:
  ## Now share your understanding
  
