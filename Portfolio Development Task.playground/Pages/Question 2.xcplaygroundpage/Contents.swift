@@ -17,6 +17,8 @@
  
  */
 // Answer question 2 below
+let UkuleleHero: String
+var 
 
 /*:
  ## Now share your understanding
