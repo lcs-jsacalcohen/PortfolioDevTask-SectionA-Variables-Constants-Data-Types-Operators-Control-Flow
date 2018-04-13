@@ -17,9 +17,10 @@
  
  */
 // Answer question 2 below
-let UkuleleHero: String
-var Copies = 500
-var price = 250
+
+let albumName = ukeleleHero
+var CopiesSold = 786
+var SuggestedSellingPrice = 25
 /*:
  ## Now share your understanding
  
